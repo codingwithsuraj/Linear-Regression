@@ -39,6 +39,8 @@ def main():
         #     st.success(classify(log_model.predict(inputs)))
         # else:
         #    st.success(classify(svm.predict(inputs)))
+        
+#         add some Graphs Here!!!!!
 
 
 if __name__=='__main__':
